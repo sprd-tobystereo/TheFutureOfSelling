@@ -8339,3 +8339,7 @@ th.hide-for-touch {
     display: table-cell !important;
   }
 }
+/* line 1, ../scss/style.scss */
+h1 {
+  color: pink !important;
+}
